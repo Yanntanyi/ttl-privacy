@@ -54,7 +54,7 @@ You can delete any entry or honor you created at any time from inside the app.
 
 You can delete your entire account from the You tab. This permanently removes your account, your profile, and your entries. This cannot be undone.
 
-You can also email [YOUR EMAIL] and we will delete your account within 30 days.
+You can also email Smartyt8@me.com and we will delete your account within 30 days.
 
 CHILDREN
 
