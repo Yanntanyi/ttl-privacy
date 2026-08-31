@@ -11,15 +11,12 @@ What TTL actually collects:
 | User Content (other) | Yes | Yes | App Functionality | No |
 | User ID | Yes | Yes | App Functionality | No |
 
-Answer **No** to "Do you use data to track?" — you have no ads, no analytics, no
-third-party SDK beyond Firebase Auth and Firestore, and no cross-app tracking.
+We have no ads, no analytics, no third-party SDK beyond Firebase Auth 
+and Firestore, and no cross-app tracking.
 
 "User Content (other)" covers the entry text, notes, and honor citations.
 
-### Privacy policy draft
-
-Host at a public URL. GitHub Pages: make a repo, add this as `index.md`, enable
-Pages in Settings, use the resulting URL.
+### Privacy Policy
 
 ```
 PRIVACY POLICY FOR TTL
