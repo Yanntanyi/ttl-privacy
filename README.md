@@ -1,4 +1,4 @@
-## Part 4 — Privacy
+## Privacy
 
 ### App Privacy questionnaire
 
